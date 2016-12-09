@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13AF264E1CC5010F0062295D"
-               BuildableName = "Apns.app"
-               BlueprintName = "Apns"
-               ReferencedContainer = "container:Apns.xcodeproj">
+               BuildableName = "ITMessage.app"
+               BlueprintName = "ITMessage"
+               ReferencedContainer = "container:ITMessage.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13AF264E1CC5010F0062295D"
-            BuildableName = "Apns.app"
-            BlueprintName = "Apns"
-            ReferencedContainer = "container:Apns.xcodeproj">
+            BuildableName = "ITMessage.app"
+            BlueprintName = "ITMessage"
+            ReferencedContainer = "container:ITMessage.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13AF264E1CC5010F0062295D"
-            BuildableName = "Apns.app"
-            BlueprintName = "Apns"
-            ReferencedContainer = "container:Apns.xcodeproj">
+            BuildableName = "ITMessage.app"
+            BlueprintName = "ITMessage"
+            ReferencedContainer = "container:ITMessage.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13AF264E1CC5010F0062295D"
-            BuildableName = "Apns.app"
-            BlueprintName = "Apns"
-            ReferencedContainer = "container:Apns.xcodeproj">
+            BuildableName = "ITMessage.app"
+            BlueprintName = "ITMessage"
+            ReferencedContainer = "container:ITMessage.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
@@ -85,7 +85,7 @@
       buildConfiguration = "Debug">
    </AnalyzeAction>
    <ArchiveAction
-      buildConfiguration = "Release"
+      buildConfiguration = "AdHoc"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
